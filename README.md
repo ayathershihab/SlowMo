@@ -1,2 +1,0 @@
-# SlowMo
-Slowmo Chat View 
